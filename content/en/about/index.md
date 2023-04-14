@@ -6,6 +6,6 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Phenix_photo_Ver1_final.png title="Illustration from @miliitart" >}}
+{{< figure src="/images/Phenix_photo_Ver1_final.png title="Dessin from @miliitart" >}}
 
 _The Trans Phenix_ (French: _Renaissance_) is an illustration of a reborn trans women. 
