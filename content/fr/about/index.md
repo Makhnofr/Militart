@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "A propos"
 description: "A few Month ago while thinking about how beautiful a trans women body is."
 featured_image: '/images/Phenix_photo_Ver1_final.png'
 menu:
